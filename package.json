@@ -1,5 +1,5 @@
 {
-  "name": "node-dogstatsd",
+  "name": "@activefence/node-dogstatsd",
   "description": "node client for extended StatsD server of Datadog",
   "version": "1.0.7",
   "author": "Young Han Lee",
